@@ -1,2 +1,2 @@
 # Menu-Sport
-Menú de navegación de Estilo Deportivo con HTML, CSS y JavaScript
+Menú de navegación de Estilo Deportivo está estructurado en código HTML, CSS y un fragmento de JavaScript para realizar la animación del menú.
